@@ -1,0 +1,20 @@
+{
+  "name": "2e_gb_pam1_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i -g @ionic/cli && ionic info",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodriann/2e_gb_pam1_2021.git"
+  },
+  "author": "rodrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodriann/2e_gb_pam1_2021/issues"
+  },
+  "homepage": "https://github.com/Rodriann/2e_gb_pam1_2021#readme"
+}
